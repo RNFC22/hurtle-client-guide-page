@@ -1,1 +1,0 @@
-# hurtle-client-guide-page
